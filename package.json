@@ -1,0 +1,14 @@
+{
+	"name":"DDAlerts",
+	"version":"0.0.1",
+	"description":"Data Driven Alerts with PhantomJS + JavaScript API",
+	"dependencies": {
+		"phantom": "latest"
+	},
+	"author": "Michael Kovner",
+	"repository": {
+	   "type": "git",
+	   "url": "https://github.com/Kovner/DDAlerts.git"
+	 },
+	"main": "app.js"
+}
